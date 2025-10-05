@@ -29,12 +29,7 @@ The UI is functional, showing password generation, checkboxes, copy, and save pl
 
 ## ⚡ How to Run Locally
 
-1. Clone the repo:
-```bash
-git clone <your-repo-url>
-cd password-vault
-```
-2. Install Dependencies
+1. Install Dependencies
 ```
 npx create-next-app@latest
 ```
@@ -49,4 +44,8 @@ npx create-next-app@latest
 ```
 npm run dev
 ```
-4. Open in browser: http://localhost:3000
+2. Open in browser: http://localhost:3000
+
+## Screenshot of Today's Rough UI Design
+<img width="1808" height="783" alt="image" src="https://github.com/user-attachments/assets/19cd2aa7-4a52-46d5-930b-109c7c783286" />
+
