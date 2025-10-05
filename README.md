@@ -1,4 +1,4 @@
-# Password Generator + Vault (Rough UI)
+# Password Generator (Rough UI)
 
 This is a **rough version** of the Password Generator + Vault MVP assignment.  
 The UI is functional, showing password generation, checkboxes, copy, and save placeholder. Backend integration (MongoDB, encryption, auth) will be added later.
@@ -13,7 +13,7 @@ The UI is functional, showing password generation, checkboxes, copy, and save pl
 4. Generate button  
 5. Generated password display  
 6. Copy to clipboard (auto-clear in 12s)  
-7. Save to Vault (placeholder alert)
+7. Save to Vault 
 
 ---
 
